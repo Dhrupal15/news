@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Dhrupal15/news/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Dhrupal15/news/static/js/main.b14776b9.chunk.js",
+    "main.js.map": "/Dhrupal15/news/static/js/main.b14776b9.chunk.js.map",
+    "runtime-main.js": "/Dhrupal15/news/static/js/runtime-main.73324b1b.js",
+    "runtime-main.js.map": "/Dhrupal15/news/static/js/runtime-main.73324b1b.js.map",
+    "static/css/2.0cf6cb40.chunk.css": "/Dhrupal15/news/static/css/2.0cf6cb40.chunk.css",
+    "static/js/2.e01d2be0.chunk.js": "/Dhrupal15/news/static/js/2.e01d2be0.chunk.js",
+    "static/js/2.e01d2be0.chunk.js.map": "/Dhrupal15/news/static/js/2.e01d2be0.chunk.js.map",
+    "static/js/3.3b28c4f3.chunk.js": "/Dhrupal15/news/static/js/3.3b28c4f3.chunk.js",
+    "static/js/3.3b28c4f3.chunk.js.map": "/Dhrupal15/news/static/js/3.3b28c4f3.chunk.js.map",
+    "index.html": "/Dhrupal15/news/index.html",
+    "static/css/2.0cf6cb40.chunk.css.map": "/Dhrupal15/news/static/css/2.0cf6cb40.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Dhrupal15/news/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e01d2be0.chunk.js.LICENSE.txt": "/Dhrupal15/news/static/js/2.e01d2be0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Dhrupal15/news/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73324b1b.js",
+    "static/css/2.0cf6cb40.chunk.css",
+    "static/js/2.e01d2be0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b14776b9.chunk.js"
+  ]
+}
